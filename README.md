@@ -1,4 +1,4 @@
-# Cyber Risk Portfolio – PayPal UK Cyber Risk Intern (R0130999)
+# Cyber Risk Portfolio 
 
 ## Overview
 This portfolio simulates a UK fintech’s cyber risk function using **Excel** and **Power BI (web version)** . All data is fictitious but based on real FCA, GDPR, and PCI DSS requirements.
